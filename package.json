@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "node": "^24.10.0",
     "pnpm": "^10.18.3",
     "react": "^19.2.0"
+  },
+  "scripts": {
+    "dev": "node server.js"
   }
 }
